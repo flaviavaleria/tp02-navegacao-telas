@@ -49,5 +49,5 @@ app/src/main/res/
 
 ## Autores
 
-- Julia Lopez
-- Yasmin Santos
+- Flávia Valéria
+- Victória Antunes
