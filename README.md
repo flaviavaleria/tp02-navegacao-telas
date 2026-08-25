@@ -41,7 +41,7 @@ app/src/main/res/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/YasminSantos-ux/tp02-navagacaotelas.git
+   git clone https://github.com/flaviavaleria/tp02-navegacao-telas.git
    ```
 2. Abra a pasta do projeto no **Android Studio**.
 3. Aguarde a sincronização do Gradle.
