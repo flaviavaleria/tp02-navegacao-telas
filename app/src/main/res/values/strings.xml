@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TP02 - Navegação de Telas</string>
+    <string name="main_screen_title">Biblioteca de Livros</string>
+    <string name="hint_title">Título do livro</string>
+    <string name="hint_author">Autor do livro</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="details_screen_title">Detalhes do Livro</string>
+    <string name="label_title">Título:</string>
+    <string name="label_author">Autor:</string>
+    <string name="error_empty_fields">Preencha o título e o autor</string>
+    <string name="btn_back">Voltar</string>
+</resources>
